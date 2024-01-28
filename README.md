@@ -1,5 +1,5 @@
 # drone_hover_control
 
 ### Results of simulation and 
-![](https://gitee.com/turbo-studio/image/raw/master/image/20210215225951.gif)
+![](c70869eea54e4ad66df4f7719ceee10.jpg)
 
